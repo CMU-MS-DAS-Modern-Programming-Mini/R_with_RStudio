@@ -1,0 +1,12 @@
+grades <-
+structure(list(name = c("Jack", "Jill", "Emma", "Billy", "Sarah"
+), hw1 = c(87, 100, 100, 75, 88), hw2 = c(95, 100, 95, 85, 100
+), hw3 = c(99, 100, 89, 93, 87), quiz1 = c(45, 100, 65, 70, 75
+), quiz2 = c(95, 100, 75, 65, 55), final = c(100, 100, 90, 85, 
+80)), row.names = c(NA, -5L), class = "data.frame")
+students <-
+structure(list(name = c("Jack", "Jill", "Emma", "Billy", "Sarah"
+), hw1 = c(87, 90, 100, 75, 88), hw2 = c(95, 65, 95, 85, 100), 
+    hw3 = c(99, 95, 89, 93, 87), quiz1 = c(45, 55, 65, 70, 75
+    ), quiz2 = c(95, 85, 75, 65, 55), final = c(100, 95, 90, 
+    85, 80)), class = "data.frame", row.names = c(NA, -5L))
